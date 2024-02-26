@@ -1,6 +1,7 @@
-![ezgif com-animated-gif-maker](https://github.com/marcoshgss/dsmovie/assets/99811575/5a04c73e-d82f-4712-bab7-76e7616dcaa3)
+![2024-02-2616-14-58-ezgif com-video-to-gif-converter](https://github.com/marcoshgss/MovieVerse/assets/99811575/a0fd31b1-73fe-4e23-a638-c98422be123d)
 
-# DSmovie - catálogo de filmes/animes 
+
+# MovieVerse - catálogo de filmes/animes 
 
 Esse projeto é sobre um catálogo de filmes e animes, feito para avaliar cada conteúdo em si.
 
